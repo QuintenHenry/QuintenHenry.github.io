@@ -33,7 +33,10 @@ h1 {
 	margin-bottom: 30px;
 }
 
-
+.portfoliogrid{
+	display: flex;
+	flex-wrap: wrap;
+}
 
 /* Paragraph & Typographic */
 p {
