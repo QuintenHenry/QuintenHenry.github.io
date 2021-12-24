@@ -1,0 +1,25 @@
+<BlogEntry>
+	<Title>ArachnaTex Digital Escaperoom</Title>
+	<CoverImage>../img/portfolio/ArachnaTex.jpg</CoverImage>
+	<Tags>
+		<Tag>Website</Tag>
+	</Tags>
+	<Paragraphs>
+		<p>A client approached me to develop a digital escape room in a browser environment to create an interactive way for children to learn about the textile industry. I implemented the assets given to me and programmed the website. The end result is a fun and interactive escape room for the children to work together to reach the end goal.</p>
+		<p inline="true">The final product can be played on </p>
+		<p href="https://cobot.be/arachnatex/">https://cobot.be/arachnatex/</p>
+		
+		<p nl="true">Een klant benaderde mij om een digitale escape room in een browser omgeving te ontwikkelen om kinderen op een interactieve manier over de textiel industrie te leren. Ik implementeerde de assets en programmeerde de website. Het eind resultaat is een leuke en interactieve escape room waar de kinderen door middel van teamwork het einde proberen te bereiken.</p>
+		<p nl="true" inline="true">Het eind product kan hier gespeeld worden </p>
+		<p nl="true" href="https://cobot.be/arachnatex/">https://cobot.be/arachnatex/</p>
+	</Paragraphs>
+	<Skills>
+		<Skill>HTML</Skill>
+		<Skill>web development</Skill>
+		<Skill>Javascript</Skill>
+	</Skills>
+	<Image>../img/portfolio/ArachnaTex1.png</Image>
+	<Image>../img/portfolio/ArachnaTex2.png</Image>
+	<Image>../img/portfolio/ArachnaTex3.png</Image>
+	<Image>../img/portfolio/ArachnaTex4.png</Image>
+</BlogEntry>

@@ -1,0 +1,32 @@
+<BlogEntry>
+	<Title>Multiplayer Looter Shooter</Title>
+	<CoverImage>../img/portfolio/Multiplayer.jpg</CoverImage>
+		<Hidden></Hidden>
+	<Tags>
+		<Tag>C++</Tag>
+		<Tag>Unreal Engine</Tag>
+		<Tag>Blueprints</Tag>
+		<Tag>Networking</Tag>
+	</Tags>
+	<Paragraphs>
+		<p>This is a project I made in Unreal Engine in my free time. I worked on this by myself, therefore there isn't much art in the game since almost all of it was free art from the store, or found online. My goal was to learn a lot about networking and to create a fun game. I made an FPS shooter with a lot of different weapons and abilities. It also has a building mechanic. You can find loot in the houses, gather wood from trees, build your house, fight your friends, drive a car, team up against bosses, ... </p>	
+		<p>There is also a dynamic day and night cycle. In the night, monsters appear and you have to fight them off with your friends or by yourself. The game has over 30 weapons, some more rare than others, ranging from a boomerang to an AWP. I had a lot of fun creating this project and learned a lot. Me and my friends also had a lot of fun playing this game.</p>
+	
+		<p nl="true">Dit is een project dat ik mijn vrije tijd gemaakt heb in Unreal Engine. Dit heb ik op mijn eentje ontwikkeld en daardoor zijn er niet zoveel models en textures in het spel. De meeste art vond ik online of van de store. Mijn doel was meer te leren over networking en een leuk spel te ontwikkelen. Ik heb een FPS shooter gemaakt met veel verschillende wapens en abilities. Het heeft ook een building mechanics. Je kunt loot in de huizen vinden, Hout verzamelen, Je huis bouwen, Vechten met je vrienden, Samenwerken tegen vijanden, auto rijden...</p>
+		
+		<p nl="true">Er is ook een dynamische dag en nacht cyclus. In de nacht komen veel monsters tevoorschijn en moet je met ze vechten met je vrienden of alleen. Het spel heeft 30 wapens, met verschillende zelfdzaamheid, van een boomerang tot een AWP. Ik heb veel geleerd met het maken van dit spel. Mijn vrienden en ik heb ook veel plezier gehad met het te spelen.</p>
+	</Paragraphs>
+	<Skills>
+		<Skill>Unreal Engine</Skill>
+		<Skill>Networking</Skill>
+		<Skill>C++</Skill>
+		<Skill>Visual Studio</Skill>
+		<Skill>Blueprints</Skill>
+		<Skill>3Ds MAX</Skill>
+		<Skill>Photoshop</Skill>
+	</Skills>
+	<Video>https://www.youtube.com/embed/19Glj0PVWcg</Video>
+	<Image>../img/portfolio/Multiplayer1.png</Image>
+	<Image>../img/portfolio/Multiplayer2.png</Image>
+	<Image>../img/portfolio/Multiplayer3.png</Image>
+</BlogEntry>

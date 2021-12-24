@@ -1,0 +1,36 @@
+<BlogEntry>
+	<Title>PartyGame with signalR connection</Title>
+	<CoverImage>../img/portfolio/PartyGame.jpg</CoverImage>
+	<Tags>
+		<Tag>C#</Tag>
+		<Tag>Unity</Tag>
+		<Tag>Networking</Tag>
+		<Tag>Website</Tag>
+	</Tags>
+	<Paragraphs>
+		<p>This game is still a WIP. I've been working on this game for a few months in my free time and plan to publish it one day. I've had a ton of playtests already and it was always a lot of fun.</p>
+		
+		<p>Players connect to the game by using their phone and going to the game's website where you can join the room. You can then control your player using the controls on the website. These controls range from regular buttons to drawing an object, shaking your device, using your device as a steering wheel, etc. There is a wide variety of minigames and also a boardgame to tie everything together.</p>
+		<p>This is a solo project, however I am planning on working with an artist in the future.</p>
+		
+		<p nl="true">Dit spel is nog onder ontwikkeling maar ik werk hier al enkele maanden aan en ben van plan het ooit te publiceren. Ik heb al veel playtests gedaan en het was altijd erg leuk.</p>
+		
+		<p nl="true">Spelers connecteren met het spel door met hun smartphone naar de website van het spel te gaan. Van hieruit kan je connecteren met de lobby en dan kan je je speler bedienen met de website. De besturing gaat van gewone knoppen om te bewegen tot het tekenen van objecten, je smartphone schudden of gebruiken als een autostuur. Er zijn veel verschillende minigames en een bordspel om alles tesamen te binden.</p>
+		<p nl="true">Dit is een solo project, maar ik ben van plan om later met een artiest samen te werken.</p>
+	</Paragraphs>
+	<Skills>
+		<Skill>Unity</Skill>
+		<Skill>C#</Skill>
+		<Skill>JavaScript</Skill>
+		<Skill>HTML+CSS</Skill>
+		<Skill>SignalR</Skill>
+		<Skill>ASP.net</Skill>
+		<Skill>Networking</Skill>
+	</Skills>
+	<Images>
+		<Image>../img/portfolio/1.jpg</Image>
+				<Image>../img/portfolio/2.jpg</Image>
+						<Image>../img/portfolio/3.jpg</Image>
+	</Images>
+	
+</BlogEntry>

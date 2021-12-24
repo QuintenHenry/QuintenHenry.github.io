@@ -1,0 +1,25 @@
+<BlogEntry>
+	<Title>Survive The Night</Title>
+	<CoverImage>../img/portfolio/SurviveTheNight.jpg</CoverImage>
+	<Hidden></Hidden>
+	<Tags>
+		<Tag>Unreal Engine</Tag>
+		<Tag>Blueprints</Tag>
+	</Tags>
+	<Paragraphs>
+		<p inline="true">This is a game I made for a course during my studies at </p>
+		<p href="https://www.digitalartsandentertainment.be/">Howest DAE.</p>
+		<p>The goal was to create a game in Unreal Engine 4 using the blueprints. In the game, you need to survive 5 nights in a row without you dying or your core getting destroyed. You can build walls, acquire multiple different weapons and fight different types of zombies.</p>
+		
+		<p inline="true" nl="true">Dit is een spel dat ik gemaakt heb tijdens mijn studies aan </p>
+		<p nl="true" href="https://www.digitalartsandentertainment.be/">Howest DAE.</p>
+		<p nl="true">Het doel was een spel te maken in Unreal Engine 4 met blueprints. In het spel, moet je 5 nachten overleven in een rij zonder te sterven en zonder dat je "Core" vernietigd wordt. Je kan muren bouwen, verschillende wapens verzamelen en verschillende types zombies vechten.</p>
+	</Paragraphs>
+	<Skills>
+		<Skill>Unreal Engine 4</Skill>
+		<Skill>Blueprints</Skill>
+		<Skill>3Ds MAX</Skill>
+		<Skill>Photoshop</Skill>
+	</Skills>
+	<Video>https://www.youtube.com/embed/SF7rvcQxe3U</Video>
+</BlogEntry>

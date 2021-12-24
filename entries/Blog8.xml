@@ -1,0 +1,39 @@
+<BlogEntry>
+	<Title>Q-Engine</Title>
+	<CoverImage>../img/portfolio/QEngine.jpg</CoverImage>
+	<Tags>
+		<Tag>C++</Tag>
+		<Tag>Graphics</Tag>
+	</Tags>
+	<Paragraphs>
+		<p>Q-Engine is a 3D engine I developed in C++ using DirectX 11. This is an engine I developed over a course of 2 months and is still a WIP. I keep improving it and add new things over time. It includes many different features such as:</p>
+			<p>- A Material Editor</p>
+			<p>- PBR rendering</p>
+			<p>- Different types of lights</p>
+			<p>- Particle Systems</p>
+			<p>- HDR</p>
+			<p>- Post-processing effects such as: SSAO, Screen space reflections, Bloom, FXAA,...</p>
+			<p>- Deferred and forward rendering</p>
+			
+			<p nl="true">Q-Engine is een 3D engine die ik ontwikkeled heb in C++ met DirectX 11. Dit is een engine die ik over 2 maanden ontwikkeld heb maar ik blijf het verbeteren en nieuwe dingen toevoegen. Het heeft functionaliteiten zoals:</p>
+				<p nl="true">- A Material Editor</p>
+				<p nl="true">- PBR rendering</p>
+				<p nl="true">- Different types of lights</p>
+				<p nl="true">- Particle Systems</p>
+				<p nl="true">- HDR</p>
+				<p nl="true">- Post-processing effects such as: SSAO, Screen space reflections, Bloom, FXAA,...</p>
+				<p nl="true">- Deferred and forward rendering</p>
+	</Paragraphs>
+	<Skills>
+		<Skill>C++</Skill>
+		<Skill>DirectX</Skill>
+		<Skill>HLSL</Skill>
+		<Skill>PhysX</Skill>
+		<Skill>Visual Studio</Skill>
+		<Skill>Knowledge about the rendering pipeline</Skill>
+	</Skills>
+	<Video>https://www.youtube.com/embed/Hh5n76zl48g</Video>
+	<Image>../img/portfolio/Qengine1.png</Image>
+		<Image>../img/portfolio/Qengine2.png</Image>
+			<Image>../img/portfolio/Qengine3.png</Image>
+</BlogEntry>

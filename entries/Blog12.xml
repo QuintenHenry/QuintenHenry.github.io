@@ -1,0 +1,19 @@
+<BlogEntry>
+	<Title>AI Survival behaviour </Title>
+	<CoverImage>../img/portfolio/AISurvivalBehaviour.jpg</CoverImage>
+		<Hidden></Hidden>
+	<Tags>
+		<Tag>C++</Tag>
+	</Tags>
+	<Paragraphs>
+		<p>The goal of this project was to create an AI that would survive as long as possible in a random generated world and where it would collect points. To collect points, you have to shoot enemies, reach checkpoints and collect items. The AI can search houses, shoot enemies, flee from enemies, estimate the enemy's position out of your FOV and also pick-up, drop and use items.</p>
+		<p nl="true">Het doel van dit project was om een AI te ontwikkelen dat zolang mogelijk overleeft in een willekeurig gegenereerde wereld. Het moeten op vijanden schieten, checkpoints bereiken en items verzamelen. De AI kan in huizen zoeken, op vijanden schieten, vluchten van vijanden, schat de vijand zijn positie buiten jouw Field Of View en oppakken, droppen en gebruiken van items.</p>
+	</Paragraphs>
+	<Skills>
+		<Skill>C++</Skill>
+		<Skill>Behaviour Trees</Skill>
+		<Skill>Finite State Machine</Skill>
+		<Skill>Visual Studio</Skill>
+	</Skills>
+	<Video>https://www.youtube.com/embed/1E07AI79jqw</Video>
+</BlogEntry>

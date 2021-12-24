@@ -1,0 +1,28 @@
+<BlogEntry>
+	<Title>Unity Networking API</Title>
+	<CoverImage>../img/portfolio/UnityNetworkingAPI.jpg</CoverImage>
+	<Tags>
+		<Tag>C#</Tag>
+		<Tag>Unity</Tag>
+		<Tag>Networking</Tag>
+	</Tags>
+	<Paragraphs>
+		<p>The Unity Networking API is a high level networking solution for Unity I wrote together with another programmer. We are currently using the API to create a cross-platform multiplayer game which requires a low latency. These are some of the features:</p>
+		<p>-Sending messages over UDP connection.</p>
+		<p>-Sending both Reliable and Unreliable functions</p>
+		<p>-Syncing of GameObjects</p>
+		
+		<p nl="true">De Unity Networking API is een high level networking solution voor Unity dat ik geschreven heb met een andere programmeur. We gebruiken momenteel de API om een cross-platform multiplayer game die een erg lage latency nodig heeft. Dit zijn enkele functionaliteiten:</p>
+		<p nl="true">-Verzenden van messages over UDP connection.</p>
+		<p nl="true">-Verzenden van zowel Reliable en Unreliable functies</p>
+		<p nl="true">-Syncing van GameObjects</p>
+	</Paragraphs>
+	<Skills>
+		<Skill>C#</Skill>
+		<Skill>Unity</Skill>
+		<Skill>Visual Studio</Skill>
+		<Skill>Knowledge about networking</Skill>
+	</Skills>
+	<Image>../img/portfolio/UnityNetworkingAPI1.png</Image>
+	<Image>../img/portfolio/UnityNetworkingAPI2.png</Image>
+</BlogEntry>

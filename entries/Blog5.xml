@@ -1,0 +1,37 @@
+<BlogEntry>
+	<Title>Sprookjes Mobiel</Title>
+	<CoverImage>../img/portfolio/SprookjesMobiel.jpg</CoverImage>
+	<Tags>
+		<Tag>C++</Tag>
+		<Tag>Unreal Engine</Tag>
+		<Tag>Mobile</Tag>
+	</Tags>
+	<Paragraphs>
+		<p>A primary school asked us to develop a game based on a fairytale. Together with my team we made De SprookjesMobiel, a game based on "De Goede Waterput" for the children of that school. We often did playtests with the children and applied their feedback.
+					The end result is a game which can be played on both Ipad and Windows. Both the school and the children were very happy with the endresult.</p>
+		<p>We worked on this game with 3 programmers and 3 artists</p>
+		
+		<p nl="true">Een basis school vroeg ons om een game te ontwikkelend gebaseerd op een sprookje. Samen met mijn team ontwikkelde we "De SprookjesMobiel", een game gebaseerd op "De Goede Waterput" voor de kinderen van de school. Vaken deden we playtests met de kinderen en paste we hun feedback toe.
+			Het eind resultaat is een spel die zowel op windows als op Ipad gespeeld kan worden. Zowel de school als de kinderen waren erg blij met het eindresultaat.</p>
+		<p nl="true">We werkte aan dit spel met 3 programmeurs and 3 artiesten</p>
+	</Paragraphs>
+	<Skills>
+		<Skill>Unreal Engine 4</Skill>
+		<Skill>Cross platform development (IOS, Windows)</Skill>
+		<Skill>Blueprints</Skill>
+		<Skill>C++</Skill>
+		<Skill>Visual Studio</Skill>
+		<Skill>3Ds MAX</Skill>
+		<Skill>Photoshop</Skill>
+	</Skills>
+	<Contributions>
+		<Contribution>Hints</Contribution>
+		<Contribution>Menu</Contribution>
+		<Contribution>Input Manager</Contribution>
+		<Contribution>Dialogs</Contribution>
+		<Contribution>Item interactions</Contribution>
+	</Contributions>
+	<Image>../img/portfolio/SprookjesMobiel1.png</Image>
+	<Image>../img/portfolio/SprookjesMobiel2.png</Image>
+	<Image>../img/portfolio/SprookjesMobiel3.png</Image>
+</BlogEntry>

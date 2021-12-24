@@ -1,0 +1,31 @@
+<BlogEntry>
+	<Title>Fog Of War</Title>
+	<CoverImage>../img/portfolio/FogOfWar.jpg</CoverImage>
+	<Tags>
+		<Tag>Unity</Tag>
+		<Tag>Unity Asset Store</Tag>
+		<Tag>Graphics</Tag>
+		<Tag>C#</Tag>
+	</Tags>
+	<Paragraphs>
+		<p>This is a Fog Of War Asset I developed and put on the Unity asset store available for download. It has features such as custom fog color and intensity, Hiding units in the fog, Giving multiple units vision and adjust the vision radius, Dynamically add and move vision blocking objects and copying the resulting mask to a texture.</p>
+		<p inline="true">The project can be downloaded from the asset store </p>
+		<p href="https://assetstore.unity.com/packages/3d/simple-fog-of-war-192288">here</p>
+		
+		<p nl="true">Dit is een Fog Of War Asset die ik ontwikkeld heb en op de Unity asset store verkoop. Het heeft functionaliteiten zoals aanpassen van het fog kleur en intensiteit, Verbergen van units in de fog, Geef verschillende units vision en pas de vision radius aan, Voeg toe en beweeg vision blocking objecten en kopieer het resultaat naar een texture.</p>
+		<p nl="true" inline="true">Het project kan </p>
+		<p nl="true" href="https://assetstore.unity.com/packages/3d/simple-fog-of-war-192288">hier</p>
+		<p nl="true" inline="true"> gedownload worden</p>
+	</Paragraphs>
+	<Skills>
+		<Skill>Unity</Skill>
+		<Skill>HLSL</Skill>
+		<Skill>C#</Skill>
+		<Skill>Compute Shaders</Skill>
+	</Skills>
+	<Video>https://www.youtube.com/embed/qM9m8fD8pZU</Video>
+	<Image>../img/portfolio/FogOfWar1.png</Image>
+	<Image>../img/portfolio/FogOfWar2.png</Image>
+	<Image>../img/portfolio/FogOfWar3.png</Image>
+	<Image>../img/portfolio/FogOfWar4.png</Image>
+</BlogEntry>

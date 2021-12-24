@@ -1,0 +1,39 @@
+<BlogEntry>
+	<Title>Dropkick</Title>
+	<CoverImage>../img/portfolio/Dropkick.jpg</CoverImage>
+	<Tags>
+		<Tag>C#</Tag>
+		<Tag>Unity</Tag>
+	</Tags>
+	<Paragraphs>
+		<p>Dropkick is a couch co-op game I made together with two others programmers and three designers for a school project. It can be played either 2v2 or 1v1. The goal of the game is to damage your opponents until they are downed. Once they are downed, you can pick them up and throw them into their goal. The game uses ragdoll physics which makes it a lot of fun to play around with. You can use power-ups and different types of attacks.</p>
+		<p href="https://chrismoerland.itch.io/gameproject-group-17">Download on Itch.io</p>
+		<p></p>
+		<p href="https://github.com/QuintenHenry/Dropkick">Source Code</p>
+		
+		<p nl="true">Dropkick is een couch co-op game die ik gemaakt heb samen met één andere programmeur and 3 artiesten. Het kan gespeeld worden als 2v2 of 1v1. Het doel van het spel is je tegenstander aanvallen tot deze "gedowned" zijn.
+		Eens ze "down" zijn kan je ze oppakken en ze in hun goal gooien. Het spel gebruikt ragdoll physics wat lopen, aanvallen en gooien erg leuk maakt. Er zijn verschillende types aanvallen en ook power ups.</p>
+		<p nl="true" href="https://chrismoerland.itch.io/gameproject-group-17">Download on Itch.io</p>
+		<p nl="true"></p>
+		<p nl="true" href="https://github.com/QuintenHenry/Dropkick">Source Code</p>
+	</Paragraphs>
+	<Skills>
+		<Skill>Unity</Skill>
+		<Skill>C#</Skill>
+		<Skill>Visual Studio</Skill>
+		<Skill>3Ds Max</Skill>
+		<Skill>Photoshop</Skill>
+	</Skills>
+	<Contributions>
+		<Contribution>Ragdoll physics</Contribution>
+		<Contribution>Movement</Contribution>
+		<Contribution>Combat</Contribution>
+		<Contribution>Respawning, Power-ups</Contribution>
+		<Contribution>Dynamic Camera Movement</Contribution>
+		<Contribution>Multiple characters integration</Contribution>
+		<Contribution>Post-processing</Contribution>
+	</Contributions>
+	<Video>https://www.youtube.com/embed/0Lv-WRqo9Qc</Video>
+	<Image>../img/portfolio/Dropkick1.png</Image>
+	<Image>../img/portfolio/Dropkick2.png</Image>
+</BlogEntry>

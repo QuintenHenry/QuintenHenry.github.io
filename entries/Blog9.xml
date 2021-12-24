@@ -1,0 +1,21 @@
+<BlogEntry>
+	<Title>Rendering Techniques in Vulkan: A comparison study</Title>
+	<CoverImage>../img/portfolio/Vulkan.jpg</CoverImage>
+	<Tags>
+		<Tag>C++</Tag>
+		<Tag>Graphics</Tag>
+	</Tags>
+	<Paragraphs>
+		<p>For my graduation work I made a comparison between different rendering techniques in Vulkan. I implemented: Forward, Deferred and Forward+ rendering in Vulkan. I then compared them in different circumstances and came to a conclusion about which rendering techniques is best used in which scenario. I wrote a paper that describes the implementation, the differences between the techniques, the differences between Vulkan and API's such as OpenGl and DirectX 11 and finally, my conclusion. This was my first time working with Vulkan and it was very challenging.</p>
+		<p nl="true">Voor mijn bachelor proef maakte ik een vergelijking tussen verschillende render technieken in Vulkan. Ik implementeerde: Forward, Deferred en Forward+ rendering in Vulkan. Daarna vergeleek ik ze in verschillende omstandigheden en kwam ik tot een conclusie over welke render techniek het best werkt in welke situatie. Ik schreef een paper dat mijn implementatie beschreef, het verschil in de technieken, het verschil tussen Vulkan en andere API's zoals OpenGL en DirectX en uiteindelijk mijn conclusie. Dat was de eerste keer dat ik met Vulkan werkte en het was erg uitdagend.</p>
+	</Paragraphs>
+	<Skills>
+			<Skill>C++</Skill>
+			<Skill>Vulkan</Skill>
+			<Skill>HLSL</Skill>
+			<Skill>Visual Studio</Skill>
+			<Skill>Knowledge about the rendering pipeline</Skill>
+			<Skill>Knowledge about different rendering techniques</Skill>
+	</Skills>
+	<Video>https://www.youtube.com/embed/DuhHjeT-lnI</Video>
+</BlogEntry>

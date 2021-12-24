@@ -1,0 +1,34 @@
+<BlogEntry>
+	<Title>The Void</Title>
+	<CoverImage>../img/portfolio/TheVoid.jpg</CoverImage>
+	<Tags>
+		<Tag>C++</Tag>
+		<Tag>VR</Tag>
+		<Tag>Unreal Engine</Tag>
+		<Tag>Networking</Tag>
+	</Tags>
+	<Paragraphs>
+		<p inline="true">During my time working at </p> 
+		<p href="http://www.climaxstudios.com/">Climax Studios</p> 
+		<p inline="true"> I worked on an upcoming VR title for </p> 
+		<p href="https://en.wikipedia.org/wiki/The_Void_(virtual_reality)">The Void</p>
+		<p inline="true">. The project I worked on has not yet been released but it was very similar to a previous project for the Jumanji movie. More information can be found </p>
+		<p href="https://www.vrfocus.com/2020/02/hands-on-the-void-jumanji-reverse-the-curse/">here</p>
+		
+		<p nl="true" inline="true">Toen ik werkte voor </p> 
+		<p nl="true" href="http://www.climaxstudios.com/">Climax Studios</p> 
+		<p nl="true" inline="true"> werkte ik aan een aankomende VR-titel voor </p> 
+		<p nl="true" href="https://en.wikipedia.org/wiki/The_Void_(virtual_reality)">The Void</p>
+		<p nl="true" inline="true">. Het project waar ik aan werkte is nog niet uitgebracht maar het is erg vergelijkbaar aan een vorig project voor de Jumanji film. Meer informatie kan </p>
+		<p nl="true" href="https://www.vrfocus.com/2020/02/hands-on-the-void-jumanji-reverse-the-curse/">hier</p>
+		<p nl="true" inline="true"> gevonden worden.</p>
+	</Paragraphs>
+	<Video>https://www.youtube.com/embed/QxLYEj13Cpw</Video>
+	<Image>../img/portfolio/TheVoid1.png</Image>
+	<Skills>
+		<Skill>Unreal Engine 4</Skill>
+		<Skill>C++</Skill>
+		<Skill>Visual Studio</Skill>
+		<Skill>VR development</Skill>
+	</Skills>
+</BlogEntry>

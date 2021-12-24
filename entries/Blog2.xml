@@ -1,0 +1,30 @@
+<BlogEntry>
+	<Title>Stylized Grass Shader</Title>
+	<CoverImage>../img/portfolio/GrassShader.jpg</CoverImage>
+	<Tags>
+		<Tag>Unity</Tag>
+		<Tag>Unity Asset Store</Tag>
+		<Tag>Graphics</Tag>
+	</Tags>
+	<Paragraphs>
+		<p>This is a stylized grass shader I developed and put on the Unity asset store available for download. It has features such as translucency (Simulate the sun going through leaves), LOD, Wind animations, Distance fade out and the ability to easily change colors.</p>
+		<p inline="true">The project can be downloaded from the asset store </p> 
+		<p href='https://assetstore.unity.com/packages/vfx/shaders/simple-stylized-grass-shader-187667'>here</p>
+		
+		<p nl="true">Dit is een stylized grass shader die ik ontwikkeld heb en op de Unity asset store verkoop. Het heeft functionaliteiten zoals translucency (Simuleren van de zon door bladeren), LOD, Wind animaties, Afstand fade out en de mogelijkheid om makkelijk kleuren te veranderen.</p>
+		<p nl="true" inline="true">Het project kan </p>
+		<p nl="true" href='https://assetstore.unity.com/packages/vfx/shaders/simple-stylized-grass-shader-187667'>hier</p>
+		<p nl="true" inline="true"> van de asset store gedownload worden.</p> 
+	</Paragraphs>
+	<Video>https://www.youtube.com/embed/XRKeeGK9XP0</Video>
+	<Image>../img/portfolio/Grass1.png</Image>
+	<Image>../img/portfolio/Grass2.png</Image>
+	<Image>../img/portfolio/Grass3.png</Image>
+	<Image>../img/portfolio/Grass4.png</Image>
+	<Image>../img/portfolio/Grass5.png</Image>
+	<Skills>
+		<Skill>Unity</Skill>
+		<Skill>Shader Graph</Skill>
+		<Skill>HLSL</Skill>
+	</Skills>
+</BlogEntry>
